@@ -22,5 +22,5 @@ There is currently no official installer for Earth Enterprise Fusion & Server.  
 Known issues can be tracked via [wiki page](https://github.com/google/earthenterprise/wiki/Known-Issues), which is updated weekly.
 
 ### Slack
-![Slack](slack_rgb.png =100x100) Join the OpenGEE [Slack channel](http://slack.opengee.org)! 
+<img src="https://github.com/tst-ahernandez/earthenterprise/blob/gitter-slack/slack_rgb.png" width="48"> Join the OpenGEE [Slack channel](http://slack.opengee.org)! 
 
